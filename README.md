@@ -2,7 +2,7 @@
 
 
 Atualizar cardápio:
-  Um Timer consulta o servico abaixo de 1 em 1 hora.Para cada item na lista atribui um desconto de 10% e persiste na tabela "Burgue".
+  Um Timer consulta o servico abaixo de 1 em 1 hora.Para cada item na lista atribui um desconto de 10% e persiste na tabela "Burguer".
   Servico do cardapio: https://rootsmanager.herokuapp.com/burguer/consulta
 
 
