@@ -3,7 +3,7 @@
 
 Atualizar cardápio:
   Um Timer consulta o servico abaixo de 1 em 1 hora.Para cada item na lista atribui um desconto de 10% e persiste na tabela "Burgue".
-  Servico do cardapio:Ç https://rootsmanager.herokuapp.com/burguer/consulta
+  Servico do cardapio: https://rootsmanager.herokuapp.com/burguer/consulta
 
 
 Buscar lista de Burguers com desconto de 10% no preco 
