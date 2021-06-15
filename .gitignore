@@ -1,0 +1,32 @@
+##############################
+## Java
+##############################
+
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+
+##############################
+## Maven
+##############################
+target/
+
+##############################
+## Eclipse
+##############################
+.settings/
+bin/
+tmp/
+.metadata
+.classpath
+.project
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.loadpath
+.factorypath
+
